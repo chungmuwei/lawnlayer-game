@@ -1,0 +1,5461 @@
+> Task :compileJava
+> Task :processResources UP-TO-DATE
+> Task :classes
+
+> Task :run
+Enclosed a region!!!
+==== CYCLE ====
+
+(7, 1)
+(7, 2)
+(7, 3)
+(7, 4)
+(7, 5)
+(7, 6)
+(7, 7)
+(7, 8)
+(7, 9)
+(7, 10)
+(7, 11)
+(6, 11)
+(5, 11)
+(4, 11)
+(3, 11)
+(3, 10)
+(3, 9)
+(3, 8)
+(3, 7)
+(3, 6)
+(3, 5)
+(2, 5)
+(1, 5)
+(1, 4)
+(0, 4)
+(0, 3)
+(0, 2)
+(0, 1)
+(0, 0)
+(1, 0)
+(2, 0)
+(3, 0)
+(4, 0)
+(5, 0)
+(6, 0)
+(7, 0)
+
+Row: 12Col:39
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:44
+boundaryRow: []
+boundaryColumn: []
+inside: false, outside: true
+Row: 1Col:1
+boundaryRow: [0, 7]
+boundaryColumn: [0, 4, 5]
+Enemy is inside!
+Row: 1Col:2
+boundaryRow: [0, 7]
+boundaryColumn: [0, 4, 5]
+Enemy is inside!
+Row: 1Col:3
+boundaryRow: [0, 7]
+boundaryColumn: [0, 4, 5]
+Enemy is inside!
+Row: 1Col:6
+boundaryRow: [3, 7]
+boundaryColumn: [0, 4, 5]
+Row: 1Col:7
+boundaryRow: [3, 7]
+boundaryColumn: [0, 4, 5]
+Row: 1Col:8
+boundaryRow: [3, 7]
+boundaryColumn: [0, 4, 5]
+Row: 1Col:9
+boundaryRow: [3, 7]
+boundaryColumn: [0, 4, 5]
+Row: 1Col:10
+boundaryRow: [3, 7]
+boundaryColumn: [0, 4, 5]
+Row: 1Col:11
+boundaryRow: [3, 4, 5, 6, 7]
+boundaryColumn: [0, 4, 5]
+Row: 1Col:12
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:13
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:14
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:15
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:16
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:17
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:18
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:19
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:20
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:21
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:22
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:23
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:24
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:25
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:26
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:27
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:28
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:29
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:30
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:31
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:32
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:33
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:34
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:35
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:36
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:37
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:38
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:39
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:40
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:41
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:42
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:43
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:44
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:45
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:46
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:47
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:48
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:49
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:50
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:51
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:52
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:53
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:54
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:55
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:56
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:57
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:58
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:59
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:60
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:61
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 1Col:62
+boundaryRow: []
+boundaryColumn: [0, 4, 5]
+Row: 2Col:1
+boundaryRow: [0, 7]
+boundaryColumn: [0, 5]
+Enemy is inside!
+Row: 2Col:2
+boundaryRow: [0, 7]
+boundaryColumn: [0, 5]
+Enemy is inside!
+Row: 2Col:3
+boundaryRow: [0, 7]
+boundaryColumn: [0, 5]
+Enemy is inside!
+Row: 2Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: [0, 5]
+Row: 2Col:6
+boundaryRow: [3, 7]
+boundaryColumn: [0, 5]
+Row: 2Col:7
+boundaryRow: [3, 7]
+boundaryColumn: [0, 5]
+Row: 2Col:8
+boundaryRow: [3, 7]
+boundaryColumn: [0, 5]
+Row: 2Col:9
+boundaryRow: [3, 7]
+boundaryColumn: [0, 5]
+Row: 2Col:10
+boundaryRow: [3, 7]
+boundaryColumn: [0, 5]
+Row: 2Col:11
+boundaryRow: [3, 4, 5, 6, 7]
+boundaryColumn: [0, 5]
+Row: 2Col:12
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:13
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:14
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:15
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:16
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:17
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:18
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:19
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:20
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:21
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:22
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:23
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:24
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:25
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:26
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:27
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:28
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:29
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:30
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:31
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:32
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:33
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:34
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:35
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:36
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:37
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:38
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:39
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:40
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:41
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:42
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:43
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:44
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:45
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:46
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:47
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:48
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:49
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:50
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:51
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:52
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:53
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:54
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:55
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:56
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:57
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:58
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:59
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:60
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:61
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 2Col:62
+boundaryRow: []
+boundaryColumn: [0, 5]
+Row: 3Col:1
+boundaryRow: [0, 7]
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Enemy is inside!
+Row: 3Col:2
+boundaryRow: [0, 7]
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Enemy is inside!
+Row: 3Col:3
+boundaryRow: [0, 7]
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Enemy is inside!
+Row: 3Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:12
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:13
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:14
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:15
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:16
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:17
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:18
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:19
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:20
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:21
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:22
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:23
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:24
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:25
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:26
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:27
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:28
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:29
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:30
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:31
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:32
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:33
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:34
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:35
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:36
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:37
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:38
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:39
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:40
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:41
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:42
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:43
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:44
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:45
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:46
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:47
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:48
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:49
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:50
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:51
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:52
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:53
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:54
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:55
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:56
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:57
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:58
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:59
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:60
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:61
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 3Col:62
+boundaryRow: []
+boundaryColumn: [0, 5, 6, 7, 8, 9, 10, 11]
+Row: 4Col:1
+boundaryRow: [0, 7]
+boundaryColumn: [0, 11]
+Enemy is inside!
+Row: 4Col:2
+boundaryRow: [0, 7]
+boundaryColumn: [0, 11]
+Enemy is inside!
+Row: 4Col:3
+boundaryRow: [0, 7]
+boundaryColumn: [0, 11]
+Enemy is inside!
+Row: 4Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: [0, 11]
+Row: 4Col:5
+boundaryRow: [1, 2, 3, 7]
+boundaryColumn: [0, 11]
+Enemy is inside!
+Row: 4Col:6
+boundaryRow: [3, 7]
+boundaryColumn: [0, 11]
+Enemy is inside!
+Row: 4Col:7
+boundaryRow: [3, 7]
+boundaryColumn: [0, 11]
+Enemy is inside!
+Row: 4Col:8
+boundaryRow: [3, 7]
+boundaryColumn: [0, 11]
+Enemy is inside!
+Row: 4Col:9
+boundaryRow: [3, 7]
+boundaryColumn: [0, 11]
+Enemy is inside!
+Row: 4Col:10
+boundaryRow: [3, 7]
+boundaryColumn: [0, 11]
+Enemy is inside!
+Row: 4Col:12
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:13
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:14
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:15
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:16
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:17
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:18
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:19
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:20
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:21
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:22
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:23
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:24
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:25
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:26
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:27
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:28
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:29
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:30
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:31
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:32
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:33
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:34
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:35
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:36
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:37
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:38
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:39
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:40
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:41
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:42
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:43
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:44
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:45
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:46
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:47
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:48
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:49
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:50
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:51
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:52
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:53
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:54
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:55
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:56
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:57
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:58
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:59
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:60
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:61
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 4Col:62
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:1
+boundaryRow: [0, 7]
+boundaryColumn: [0, 11]
+Enemy is inside!
+Row: 5Col:2
+boundaryRow: [0, 7]
+boundaryColumn: [0, 11]
+Enemy is inside!
+Row: 5Col:3
+boundaryRow: [0, 7]
+boundaryColumn: [0, 11]
+Enemy is inside!
+Row: 5Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: [0, 11]
+Row: 5Col:5
+boundaryRow: [1, 2, 3, 7]
+boundaryColumn: [0, 11]
+Enemy is inside!
+Row: 5Col:6
+boundaryRow: [3, 7]
+boundaryColumn: [0, 11]
+Enemy is inside!
+Row: 5Col:7
+boundaryRow: [3, 7]
+boundaryColumn: [0, 11]
+Enemy is inside!
+Row: 5Col:8
+boundaryRow: [3, 7]
+boundaryColumn: [0, 11]
+Enemy is inside!
+Row: 5Col:9
+boundaryRow: [3, 7]
+boundaryColumn: [0, 11]
+Enemy is inside!
+Row: 5Col:10
+boundaryRow: [3, 7]
+boundaryColumn: [0, 11]
+Enemy is inside!
+Row: 5Col:12
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:13
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:14
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:15
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:16
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:17
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:18
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:19
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:20
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:21
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:22
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:23
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:24
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:25
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:26
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:27
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:28
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:29
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:30
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:31
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:32
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:33
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:34
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:35
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:36
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:37
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:38
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:39
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:40
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:41
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:42
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:43
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:44
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:45
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:46
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:47
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:48
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:49
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:50
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:51
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:52
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:53
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:54
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:55
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:56
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:57
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:58
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:59
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:60
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:61
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 5Col:62
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:1
+boundaryRow: [0, 7]
+boundaryColumn: [0, 11]
+Enemy is inside!
+Row: 6Col:2
+boundaryRow: [0, 7]
+boundaryColumn: [0, 11]
+Enemy is inside!
+Row: 6Col:3
+boundaryRow: [0, 7]
+boundaryColumn: [0, 11]
+Enemy is inside!
+Row: 6Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: [0, 11]
+Row: 6Col:5
+boundaryRow: [1, 2, 3, 7]
+boundaryColumn: [0, 11]
+Enemy is inside!
+Row: 6Col:6
+boundaryRow: [3, 7]
+boundaryColumn: [0, 11]
+Enemy is inside!
+Row: 6Col:7
+boundaryRow: [3, 7]
+boundaryColumn: [0, 11]
+Enemy is inside!
+Row: 6Col:8
+boundaryRow: [3, 7]
+boundaryColumn: [0, 11]
+Enemy is inside!
+Row: 6Col:9
+boundaryRow: [3, 7]
+boundaryColumn: [0, 11]
+Enemy is inside!
+Row: 6Col:10
+boundaryRow: [3, 7]
+boundaryColumn: [0, 11]
+Enemy is inside!
+Row: 6Col:12
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:13
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:14
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:15
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:16
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:17
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:18
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:19
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:20
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:21
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:22
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:23
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:24
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:25
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:26
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:27
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:28
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:29
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:30
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:31
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:32
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:33
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:34
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:35
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:36
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:37
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:38
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:39
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:40
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:41
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:42
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:43
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:44
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:45
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:46
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:47
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:48
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:49
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:50
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:51
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:52
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:53
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:54
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:55
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:56
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:57
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:58
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:59
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:60
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:61
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 6Col:62
+boundaryRow: []
+boundaryColumn: [0, 11]
+Row: 7Col:12
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:13
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:14
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:15
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:16
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:17
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:18
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:19
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:20
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:21
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:22
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:23
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:24
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:25
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:26
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:27
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:28
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:29
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:30
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:31
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:32
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:33
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:34
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:35
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:36
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:37
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:38
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:39
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:40
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:41
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:42
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:43
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:44
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:45
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:46
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:47
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:48
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:49
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:50
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:51
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:52
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:53
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:54
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:55
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:56
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:57
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:58
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:59
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:60
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:61
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 7Col:62
+boundaryRow: []
+boundaryColumn: [0, 1, 11]
+Row: 8Col:1
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 8Col:2
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 8Col:3
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 8Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: []
+Row: 8Col:5
+boundaryRow: [1, 2, 3, 7]
+boundaryColumn: []
+Row: 8Col:6
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 8Col:7
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 8Col:8
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 8Col:9
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 8Col:10
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 8Col:11
+boundaryRow: [3, 4, 5, 6, 7]
+boundaryColumn: []
+Row: 8Col:12
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:13
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:14
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:15
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:16
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:17
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:18
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:19
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:20
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:21
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:22
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:23
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:24
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:25
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:26
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:27
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:28
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:29
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:30
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:31
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:32
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:33
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:34
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:35
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:36
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:37
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:38
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:39
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:40
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:41
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:42
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:43
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:44
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:45
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:46
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:47
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:48
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:49
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:50
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:51
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:52
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:53
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:54
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:55
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:56
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:57
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:58
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:59
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:60
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:61
+boundaryRow: []
+boundaryColumn: []
+Row: 8Col:62
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:1
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 9Col:2
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 9Col:3
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 9Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: []
+Row: 9Col:5
+boundaryRow: [1, 2, 3, 7]
+boundaryColumn: []
+Row: 9Col:6
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 9Col:7
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 9Col:8
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 9Col:9
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 9Col:10
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 9Col:11
+boundaryRow: [3, 4, 5, 6, 7]
+boundaryColumn: []
+Row: 9Col:12
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:13
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:14
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:15
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:16
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:17
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:18
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:19
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:20
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:21
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:22
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:23
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:24
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:25
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:26
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:27
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:28
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:29
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:30
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:31
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:32
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:33
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:34
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:35
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:36
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:37
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:38
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:39
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:40
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:41
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:42
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:43
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:44
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:45
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:46
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:47
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:48
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:49
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:50
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:51
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:52
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:53
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:54
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:55
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:56
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:57
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:58
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:59
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:60
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:61
+boundaryRow: []
+boundaryColumn: []
+Row: 9Col:62
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:1
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 10Col:2
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 10Col:3
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 10Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: []
+Row: 10Col:5
+boundaryRow: [1, 2, 3, 7]
+boundaryColumn: []
+Row: 10Col:6
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 10Col:7
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 10Col:8
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 10Col:9
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 10Col:10
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 10Col:11
+boundaryRow: [3, 4, 5, 6, 7]
+boundaryColumn: []
+Row: 10Col:12
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:13
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:14
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:15
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:16
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:17
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:18
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:19
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:20
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:21
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:22
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:23
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:24
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:25
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:26
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:27
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:28
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:29
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:30
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:31
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:32
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:33
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:34
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:35
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:36
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:37
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:38
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:39
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:40
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:41
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:42
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:43
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:44
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:45
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:46
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:47
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:48
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:49
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:50
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:51
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:52
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:53
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:54
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:55
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:56
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:57
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:58
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:59
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:60
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:61
+boundaryRow: []
+boundaryColumn: []
+Row: 10Col:62
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:1
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 11Col:2
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 11Col:3
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 11Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: []
+Row: 11Col:5
+boundaryRow: [1, 2, 3, 7]
+boundaryColumn: []
+Row: 11Col:6
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 11Col:7
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 11Col:8
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 11Col:9
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 11Col:10
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 11Col:11
+boundaryRow: [3, 4, 5, 6, 7]
+boundaryColumn: []
+Row: 11Col:12
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:13
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:14
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:15
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:16
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:17
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:18
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:19
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:20
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:21
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:22
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:23
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:24
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:25
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:26
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:27
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:28
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:29
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:30
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:31
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:32
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:33
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:34
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:35
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:36
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:37
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:38
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:39
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:40
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:41
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:42
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:43
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:44
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:45
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:46
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:47
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:48
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:49
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:50
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:51
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:52
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:53
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:54
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:55
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:56
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:57
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:58
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:59
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:60
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:61
+boundaryRow: []
+boundaryColumn: []
+Row: 11Col:62
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:1
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 12Col:2
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 12Col:3
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 12Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: []
+Row: 12Col:5
+boundaryRow: [1, 2, 3, 7]
+boundaryColumn: []
+Row: 12Col:6
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 12Col:7
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 12Col:8
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 12Col:9
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 12Col:10
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 12Col:11
+boundaryRow: [3, 4, 5, 6, 7]
+boundaryColumn: []
+Row: 12Col:12
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:13
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:14
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:15
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:16
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:17
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:18
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:19
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:20
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:21
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:22
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:23
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:24
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:25
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:26
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:27
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:28
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:29
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:30
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:31
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:32
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:33
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:34
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:35
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:36
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:37
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:38
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:39
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:40
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:41
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:42
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:43
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:44
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:45
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:46
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:47
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:48
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:49
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:50
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:51
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:52
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:53
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:54
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:55
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:56
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:57
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:58
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:59
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:60
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:61
+boundaryRow: []
+boundaryColumn: []
+Row: 12Col:62
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:1
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 13Col:2
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 13Col:3
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 13Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: []
+Row: 13Col:5
+boundaryRow: [1, 2, 3, 7]
+boundaryColumn: []
+Row: 13Col:6
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 13Col:7
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 13Col:8
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 13Col:9
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 13Col:10
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 13Col:11
+boundaryRow: [3, 4, 5, 6, 7]
+boundaryColumn: []
+Row: 13Col:12
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:13
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:14
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:15
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:16
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:17
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:18
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:19
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:20
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:21
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:22
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:23
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:24
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:25
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:26
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:27
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:37
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:38
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:39
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:40
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:41
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:42
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:43
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:44
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:45
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:46
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:47
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:48
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:49
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:50
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:51
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:52
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:53
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:54
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:55
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:56
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:57
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:58
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:59
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:60
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:61
+boundaryRow: []
+boundaryColumn: []
+Row: 13Col:62
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:1
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 14Col:2
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 14Col:3
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 14Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: []
+Row: 14Col:5
+boundaryRow: [1, 2, 3, 7]
+boundaryColumn: []
+Row: 14Col:6
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 14Col:7
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 14Col:8
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 14Col:9
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 14Col:10
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 14Col:11
+boundaryRow: [3, 4, 5, 6, 7]
+boundaryColumn: []
+Row: 14Col:12
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:13
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:14
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:15
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:16
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:17
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:18
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:19
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:20
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:21
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:22
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:23
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:24
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:25
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:26
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:27
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:37
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:38
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:39
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:40
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:41
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:42
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:43
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:44
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:45
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:46
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:47
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:48
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:49
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:50
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:51
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:52
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:53
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:54
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:55
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:56
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:57
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:58
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:59
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:60
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:61
+boundaryRow: []
+boundaryColumn: []
+Row: 14Col:62
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:1
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 15Col:2
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 15Col:3
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 15Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: []
+Row: 15Col:5
+boundaryRow: [1, 2, 3, 7]
+boundaryColumn: []
+Row: 15Col:6
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 15Col:7
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 15Col:8
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 15Col:9
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 15Col:10
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 15Col:11
+boundaryRow: [3, 4, 5, 6, 7]
+boundaryColumn: []
+Row: 15Col:12
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:13
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:14
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:15
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:16
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:17
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:18
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:19
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:20
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:21
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:22
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:23
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:24
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:25
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:26
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:27
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:37
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:38
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:39
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:40
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:41
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:42
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:43
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:44
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:45
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:46
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:47
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:48
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:49
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:50
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:51
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:52
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:53
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:54
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:55
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:56
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:57
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:58
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:59
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:60
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:61
+boundaryRow: []
+boundaryColumn: []
+Row: 15Col:62
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:1
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 16Col:2
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 16Col:3
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 16Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: []
+Row: 16Col:5
+boundaryRow: [1, 2, 3, 7]
+boundaryColumn: []
+Row: 16Col:6
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 16Col:7
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 16Col:8
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 16Col:9
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 16Col:10
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 16Col:11
+boundaryRow: [3, 4, 5, 6, 7]
+boundaryColumn: []
+Row: 16Col:12
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:13
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:14
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:15
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:16
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:17
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:18
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:19
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:20
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:21
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:22
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:23
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:24
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:25
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:26
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:27
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:37
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:38
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:39
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:40
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:41
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:42
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:43
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:44
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:45
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:46
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:47
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:48
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:49
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:50
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:51
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:52
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:53
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:54
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:55
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:56
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:57
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:58
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:59
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:60
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:61
+boundaryRow: []
+boundaryColumn: []
+Row: 16Col:62
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:1
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 17Col:2
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 17Col:3
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 17Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: []
+Row: 17Col:5
+boundaryRow: [1, 2, 3, 7]
+boundaryColumn: []
+Row: 17Col:6
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 17Col:7
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 17Col:8
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 17Col:9
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 17Col:10
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 17Col:11
+boundaryRow: [3, 4, 5, 6, 7]
+boundaryColumn: []
+Row: 17Col:12
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:13
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:14
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:15
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:16
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:17
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:18
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:19
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:20
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:21
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:22
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:23
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:24
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:25
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:26
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:27
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:37
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:38
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:39
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:40
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:41
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:42
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:43
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:44
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:45
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:46
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:47
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:48
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:49
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:50
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:51
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:52
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:53
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:54
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:55
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:56
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:57
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:58
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:59
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:60
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:61
+boundaryRow: []
+boundaryColumn: []
+Row: 17Col:62
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:1
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 18Col:2
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 18Col:3
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 18Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: []
+Row: 18Col:5
+boundaryRow: [1, 2, 3, 7]
+boundaryColumn: []
+Row: 18Col:6
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 18Col:7
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 18Col:8
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 18Col:9
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 18Col:10
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 18Col:11
+boundaryRow: [3, 4, 5, 6, 7]
+boundaryColumn: []
+Row: 18Col:12
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:13
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:14
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:15
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:16
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:17
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:18
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:19
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:20
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:21
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:22
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:23
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:24
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:25
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:26
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:27
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:28
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:29
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:30
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:31
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:32
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:33
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:34
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:35
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:36
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:37
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:38
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:39
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:40
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:41
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:42
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:43
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:44
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:45
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:46
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:47
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:48
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:49
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:50
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:51
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:52
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:53
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:54
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:55
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:56
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:57
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:58
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:59
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:60
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:61
+boundaryRow: []
+boundaryColumn: []
+Row: 18Col:62
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:1
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 19Col:2
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 19Col:3
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 19Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: []
+Row: 19Col:5
+boundaryRow: [1, 2, 3, 7]
+boundaryColumn: []
+Row: 19Col:6
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 19Col:7
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 19Col:8
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 19Col:9
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 19Col:10
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 19Col:11
+boundaryRow: [3, 4, 5, 6, 7]
+boundaryColumn: []
+Row: 19Col:12
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:13
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:14
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:15
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:16
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:17
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:18
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:19
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:20
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:21
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:22
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:23
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:24
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:25
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:26
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:27
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:28
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:29
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:30
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:31
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:32
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:33
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:34
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:35
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:36
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:37
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:38
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:39
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:40
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:41
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:42
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:43
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:44
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:45
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:46
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:47
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:48
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:49
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:50
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:51
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:52
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:53
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:54
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:55
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:56
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:57
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:58
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:59
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:60
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:61
+boundaryRow: []
+boundaryColumn: []
+Row: 19Col:62
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:1
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 20Col:2
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 20Col:3
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 20Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: []
+Row: 20Col:5
+boundaryRow: [1, 2, 3, 7]
+boundaryColumn: []
+Row: 20Col:6
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 20Col:7
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 20Col:8
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 20Col:9
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 20Col:10
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 20Col:11
+boundaryRow: [3, 4, 5, 6, 7]
+boundaryColumn: []
+Row: 20Col:12
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:13
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:14
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:15
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:16
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:17
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:18
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:19
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:20
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:21
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:22
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:23
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:24
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:25
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:26
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:27
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:28
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:29
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:30
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:31
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:32
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:33
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:34
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:35
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:36
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:37
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:38
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:39
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:40
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:41
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:42
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:43
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:44
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:45
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:46
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:47
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:48
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:49
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:50
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:51
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:52
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:53
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:54
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:55
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:56
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:57
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:58
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:59
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:60
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:61
+boundaryRow: []
+boundaryColumn: []
+Row: 20Col:62
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:1
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 21Col:2
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 21Col:3
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 21Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: []
+Row: 21Col:5
+boundaryRow: [1, 2, 3, 7]
+boundaryColumn: []
+Row: 21Col:6
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 21Col:7
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 21Col:8
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 21Col:9
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 21Col:10
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 21Col:11
+boundaryRow: [3, 4, 5, 6, 7]
+boundaryColumn: []
+Row: 21Col:12
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:13
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:14
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:15
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:16
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:17
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:18
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:19
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:20
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:21
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:22
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:23
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:24
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:25
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:26
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:27
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:28
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:29
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:30
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:31
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:32
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:33
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:34
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:35
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:36
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:37
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:38
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:39
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:40
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:41
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:42
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:43
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:44
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:45
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:46
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:47
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:48
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:49
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:50
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:51
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:52
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:53
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:54
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:55
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:56
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:57
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:58
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:59
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:60
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:61
+boundaryRow: []
+boundaryColumn: []
+Row: 21Col:62
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:1
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 22Col:2
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 22Col:3
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 22Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: []
+Row: 22Col:5
+boundaryRow: [1, 2, 3, 7]
+boundaryColumn: []
+Row: 22Col:6
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 22Col:7
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 22Col:8
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 22Col:9
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 22Col:10
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 22Col:11
+boundaryRow: [3, 4, 5, 6, 7]
+boundaryColumn: []
+Row: 22Col:12
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:13
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:14
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:15
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:16
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:17
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:18
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:19
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:20
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:21
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:22
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:23
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:24
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:25
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:26
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:27
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:28
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:29
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:30
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:31
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:32
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:33
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:34
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:35
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:36
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:37
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:38
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:39
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:40
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:41
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:42
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:43
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:44
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:45
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:46
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:47
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:48
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:49
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:50
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:51
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:52
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:53
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:54
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:55
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:56
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:57
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:58
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:59
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:60
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:61
+boundaryRow: []
+boundaryColumn: []
+Row: 22Col:62
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:1
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 23Col:2
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 23Col:3
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 23Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: []
+Row: 23Col:5
+boundaryRow: [1, 2, 3, 7]
+boundaryColumn: []
+Row: 23Col:6
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 23Col:7
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 23Col:8
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 23Col:9
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 23Col:10
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 23Col:11
+boundaryRow: [3, 4, 5, 6, 7]
+boundaryColumn: []
+Row: 23Col:12
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:13
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:14
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:15
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:16
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:17
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:18
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:19
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:20
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:21
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:22
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:23
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:24
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:25
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:26
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:27
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:28
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:29
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:30
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:31
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:32
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:33
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:34
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:35
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:36
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:37
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:38
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:39
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:40
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:41
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:42
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:43
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:44
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:45
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:46
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:47
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:48
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:49
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:50
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:51
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:52
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:53
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:54
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:55
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:56
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:57
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:58
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:59
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:60
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:61
+boundaryRow: []
+boundaryColumn: []
+Row: 23Col:62
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:1
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 24Col:2
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 24Col:3
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 24Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: []
+Row: 24Col:5
+boundaryRow: [1, 2, 3, 7]
+boundaryColumn: []
+Row: 24Col:6
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 24Col:7
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 24Col:8
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 24Col:9
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 24Col:10
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 24Col:11
+boundaryRow: [3, 4, 5, 6, 7]
+boundaryColumn: []
+Row: 24Col:12
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:13
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:14
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:15
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:16
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:17
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:18
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:19
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:20
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:21
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:22
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:23
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:24
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:25
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:26
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:27
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:28
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:29
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:30
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:31
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:32
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:33
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:34
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:35
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:36
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:37
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:38
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:39
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:40
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:41
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:42
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:43
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:44
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:45
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:46
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:47
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:48
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:49
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:50
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:51
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:52
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:53
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:54
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:55
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:56
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:57
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:58
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:59
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:60
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:61
+boundaryRow: []
+boundaryColumn: []
+Row: 24Col:62
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:1
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 25Col:2
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 25Col:3
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 25Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: []
+Row: 25Col:5
+boundaryRow: [1, 2, 3, 7]
+boundaryColumn: []
+Row: 25Col:6
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 25Col:7
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 25Col:8
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 25Col:9
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 25Col:10
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 25Col:11
+boundaryRow: [3, 4, 5, 6, 7]
+boundaryColumn: []
+Row: 25Col:12
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:13
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:14
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:15
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:16
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:17
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:18
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:19
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:20
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:21
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:22
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:23
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:24
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:25
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:26
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:27
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:28
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:29
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:30
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:31
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:32
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:33
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:34
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:35
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:36
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:37
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:38
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:39
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:40
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:41
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:42
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:43
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:44
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:45
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:46
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:47
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:48
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:49
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:50
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:51
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:52
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:53
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:54
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:55
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:56
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:57
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:58
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:59
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:60
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:61
+boundaryRow: []
+boundaryColumn: []
+Row: 25Col:62
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:1
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 26Col:2
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 26Col:3
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 26Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: []
+Row: 26Col:5
+boundaryRow: [1, 2, 3, 7]
+boundaryColumn: []
+Row: 26Col:6
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 26Col:7
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 26Col:8
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 26Col:9
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 26Col:10
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 26Col:11
+boundaryRow: [3, 4, 5, 6, 7]
+boundaryColumn: []
+Row: 26Col:12
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:13
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:14
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:15
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:16
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:17
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:18
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:19
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:20
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:21
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:22
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:23
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:24
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:25
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:26
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:27
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:28
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:29
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:30
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:31
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:32
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:33
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:34
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:35
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:36
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:37
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:38
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:39
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:40
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:41
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:42
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:43
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:44
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:45
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:46
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:47
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:48
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:49
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:50
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:51
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:52
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:53
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:54
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:55
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:56
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:57
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:58
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:59
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:60
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:61
+boundaryRow: []
+boundaryColumn: []
+Row: 26Col:62
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:1
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 27Col:2
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 27Col:3
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 27Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: []
+Row: 27Col:5
+boundaryRow: [1, 2, 3, 7]
+boundaryColumn: []
+Row: 27Col:6
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 27Col:7
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 27Col:8
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 27Col:9
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 27Col:10
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 27Col:11
+boundaryRow: [3, 4, 5, 6, 7]
+boundaryColumn: []
+Row: 27Col:12
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:13
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:14
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:15
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:16
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:17
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:18
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:19
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:20
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:21
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:22
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:23
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:24
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:25
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:26
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:27
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:28
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:29
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:30
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:31
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:32
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:33
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:34
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:35
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:36
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:37
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:38
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:39
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:40
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:41
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:42
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:43
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:44
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:45
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:46
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:47
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:48
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:49
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:50
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:51
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:52
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:53
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:54
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:55
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:56
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:57
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:58
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:59
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:60
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:61
+boundaryRow: []
+boundaryColumn: []
+Row: 27Col:62
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:1
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 28Col:2
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 28Col:3
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 28Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: []
+Row: 28Col:5
+boundaryRow: [1, 2, 3, 7]
+boundaryColumn: []
+Row: 28Col:6
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 28Col:7
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 28Col:8
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 28Col:9
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 28Col:10
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 28Col:11
+boundaryRow: [3, 4, 5, 6, 7]
+boundaryColumn: []
+Row: 28Col:12
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:13
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:14
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:15
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:16
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:17
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:18
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:19
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:20
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:21
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:22
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:23
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:24
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:25
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:26
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:27
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:28
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:29
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:30
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:31
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:32
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:33
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:34
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:35
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:36
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:37
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:38
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:39
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:40
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:41
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:42
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:43
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:44
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:45
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:46
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:47
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:48
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:49
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:50
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:51
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:52
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:53
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:54
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:55
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:56
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:57
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:58
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:59
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:60
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:61
+boundaryRow: []
+boundaryColumn: []
+Row: 28Col:62
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:1
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 29Col:2
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 29Col:3
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 29Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: []
+Row: 29Col:5
+boundaryRow: [1, 2, 3, 7]
+boundaryColumn: []
+Row: 29Col:6
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 29Col:7
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 29Col:8
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 29Col:9
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 29Col:10
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 29Col:11
+boundaryRow: [3, 4, 5, 6, 7]
+boundaryColumn: []
+Row: 29Col:12
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:13
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:14
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:15
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:16
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:17
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:18
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:19
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:20
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:21
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:22
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:23
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:24
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:25
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:26
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:27
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:28
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:29
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:30
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:31
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:32
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:33
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:34
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:35
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:36
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:37
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:38
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:39
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:40
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:41
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:42
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:43
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:44
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:45
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:46
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:47
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:48
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:49
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:50
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:51
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:52
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:53
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:54
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:55
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:56
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:57
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:58
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:59
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:60
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:61
+boundaryRow: []
+boundaryColumn: []
+Row: 29Col:62
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:1
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 30Col:2
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 30Col:3
+boundaryRow: [0, 7]
+boundaryColumn: []
+Row: 30Col:4
+boundaryRow: [0, 1, 7]
+boundaryColumn: []
+Row: 30Col:5
+boundaryRow: [1, 2, 3, 7]
+boundaryColumn: []
+Row: 30Col:6
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 30Col:7
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 30Col:8
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 30Col:9
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 30Col:10
+boundaryRow: [3, 7]
+boundaryColumn: []
+Row: 30Col:11
+boundaryRow: [3, 4, 5, 6, 7]
+boundaryColumn: []
+Row: 30Col:12
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:13
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:14
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:15
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:16
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:17
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:18
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:19
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:20
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:21
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:22
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:23
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:24
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:25
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:26
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:27
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:28
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:29
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:30
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:31
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:32
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:33
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:34
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:35
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:36
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:37
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:38
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:39
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:40
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:41
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:42
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:43
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:44
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:45
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:46
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:47
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:48
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:49
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:50
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:51
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:52
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:53
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:54
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:55
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:56
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:57
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:58
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:59
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:60
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:61
+boundaryRow: []
+boundaryColumn: []
+Row: 30Col:62
+boundaryRow: []
+boundaryColumn: []
