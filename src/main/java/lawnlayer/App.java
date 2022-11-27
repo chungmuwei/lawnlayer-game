@@ -50,11 +50,6 @@ public class App extends PApplet implements UpdateTiles, SetUp, Draw, Status {
     public int currentLevel;
 
     /**
-     * A JSON array containing the type and spawn of the enemies of current level
-     */
-    public JSONArray enemies;
-
-    /**
      * The number of grass tiles in the grids
      */
     public int numOfGrass;

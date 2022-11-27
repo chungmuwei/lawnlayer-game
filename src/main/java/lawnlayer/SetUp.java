@@ -7,6 +7,7 @@ import lawnlayer.character.enemy.worm.Worm;
 
 import java.io.BufferedReader;
 import java.io.IOException;
+import java.util.Objects;
 
 import processing.core.PApplet;
 import processing.data.JSONObject;
@@ -22,13 +23,19 @@ public interface SetUp {
      */
     public default void readLevelFile(App app) {
         // Open level*.txt file
-        String filename = app.levels.getJSONObject(app.currentLevel - 1).getString("outlay");
-        BufferedReader reader = app.createReader(filename);
+        String levelFile = app.levels.getJSONObject(app.currentLevel - 1).getString("outlay");
+        BufferedReader reader = null;
+        try {
+            reader = app.createReader(Objects.requireNonNull(app.getClass().getResource(levelFile)).getPath());
+        } catch (NullPointerException e) {
+            System.out.printf("Level file: \"%s\" not found%n", levelFile);
+        }
         String line = null;
         char concreteSymbol = 'X';
         try {
             for (int i = 0; i < app.tile.length; i++) {
-                
+
+                assert reader != null;
                 line = reader.readLine();
                 for (int j = 0; j < app.tile[0].length; j++) {
                    

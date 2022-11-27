@@ -70,6 +70,6 @@ public interface Draw {
         
         // Level
         app.textFont(app.font, 24);
-        app.text(String.format("Level %d", app.currentLevel), App.WIDTH-100, 60);
+        app.text(String.format("Level %d of %d", app.currentLevel, app.numOfLevels), App.WIDTH-100, 60);
     }
 }

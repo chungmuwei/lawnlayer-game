@@ -12,7 +12,7 @@
           "spawn": "random"
         }
       ],
-      "goal": 0.8
+      "goal": 0.08
     },
     {
       "outlay": "level2.txt",
@@ -30,7 +30,7 @@
           "spawn": "random"
         }
       ],
-      "goal": 0.8
+      "goal": 0.08
     },
     {
       "outlay": "level3.txt",
